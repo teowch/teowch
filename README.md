@@ -1,3 +1,16 @@
+<a href="https://github.com/teowch/digital-image-processing" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=digital-image-processing&theme=midnight-purple">
+</a>
+<a href="https://github.com/teowch/os-dashboard" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=os-dashboard&theme=midnight-purple">
+</a>
+<a href="https://github.com/teowch/face-detector" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=face-detector&theme=midnight-purple">
+</a>
+<a href="https://github.com/teowch/pokemon-fangame" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=pokemon-fangame&theme=midnight-purple">
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=digital-image-processing&theme=midnight-purple)](https://github.com/teowch/digital-image-processing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=os-dashboard&theme=midnight-purple)](https://github.com/teowch/os-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=face-detector&theme=midnight-purple)](https://github.com/teowch/face-detector)
