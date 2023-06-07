@@ -6,9 +6,9 @@
 # Hi, I'm Teo!
 💻 IT Technician graduated in 2020 at IFC (Catarinense Federal Institute)<br>
 👨‍💻 Bachelor's student in Information Systems at UTFPR (Federal Technological University of Paraná)<br>
-🏊 Swim athlete
+🏊 Swimmer athlete
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teowch&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teowch&show_icons=true&theme=midnight-purple&hide_rank=true)
 
 ## Skills
 > Technologies that I have used several times and feel confident to work with.
