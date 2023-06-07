@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teowch&show_icons=true&theme=midnight-purple)
 
 ## Skills
-> Technologies I have used several times and feel confident to work with.
+> Technologies that I have used several times and feel confident to work with.
 <div style="display: inline_block">
   <img align="center" alt="Teo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Teo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
