@@ -1,3 +1,8 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=digital-image-processing&theme=midnight-purple)](https://github.com/teowch/digital-image-processing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=os-dashboard&theme=midnight-purple)](https://github.com/teowch/os-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=face-detector&theme=midnight-purple)](https://github.com/teowch/face-detector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=pokemon-fangame&theme=midnight-purple)](https://github.com/teowch/pokemon-fangame)
+
 # Hi, I'm Teo!
 💻 IT Technician graduated in 2020 at IFC (Catarinense Federal Institute)<br>
 👨‍💻 Bachelor's student in Information Systems at UTFPR (Federal Technological University of Paraná)<br>
@@ -18,7 +23,7 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teowch&layout=donut&exclude_repo=temdex,poke-battle-ifc&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teowch&layout=donut-vertical&exclude_repo=temdex&theme=midnight-purple)
 
 ## Improving
 > Technologies I'm looking to improve.
@@ -33,8 +38,6 @@
   <img align="center" alt="Teo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Teo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
 </div>
-
-##
 
 ##
  
